@@ -1,2 +1,2 @@
 # universe-database
-freecodecamp project
+Freecodecamp Project
